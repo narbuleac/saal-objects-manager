@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saal Objects Manager</string>
+    <string name="placeholder_search">Search Objects</string>
+    <string name="placeholder_object_name">Name</string>
+    <string name="placeholder_object_description">Description</string>
+    <string name="placeholder_object_type">Type</string>
+    <string name="object_list">Object List</string>
+    <string name="add_object">Add Object</string>
+    <string name="edit_object">Edit Object</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete\n</string>
+</resources>
